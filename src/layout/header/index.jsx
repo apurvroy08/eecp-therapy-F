@@ -35,7 +35,7 @@ const Header = () => {
     <AppBar
       sx={{
         bgcolor: "#fff",
-        boxShadow: "0 10px 20px rgba(0,0,0,.1),0 6px 6px rgba(0,0,0,.05)",
+        boxShadow: "0px 5px 20px rgba(0, 0, 0, .1), 0 6px 6px rgba(0, 0, 0, .05)",
       }}
     >
       <Container maxWidth="lg">
