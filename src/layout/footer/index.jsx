@@ -51,7 +51,7 @@ const Footer = () => {
   const ourSupport = ["Health Suggestion", "24*7 Support", "FAQs Support"];
 
   return (
-    <Box sx={{ borderTop: "2px solid #f1f1f1", mt: "120px" }}>
+    <Box sx={{ borderTop: "2px solid #f1f1f1" }}>
       <Container maxWidth="lg" sx={{ paddingTop: { xs: "30px", sm: "50px" } }}>
         <Grid container spacing={3}>
           <Grid item xs={12} sm={6} md={4}>
